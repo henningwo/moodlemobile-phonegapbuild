@@ -5,13 +5,13 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20190"
         version   = "3.3.1">
-    <name>Moodle Mobile</name>
+    <name>WI APP</name>
 
     <description>
-        Moodle Mobile official app
+        WI APP
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="Nhan und Henning" email="mobile@moodle.com">
         Moodle Mobile team
     </author>
 
